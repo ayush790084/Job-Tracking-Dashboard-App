@@ -1,11 +1,10 @@
-
-💼✨ Job Tracking Dashboard
-
+## 💼✨ Job Tracking Dashboard
 🚀 A modern and responsive **Job Tracking Dashboard** built using **React.js** to help users manage and track job applications efficiently.
 
 ---
 
-🌟 Live Features
+## 🌟 Live Features & Demo
+https://jobtrackingdashboard.vercel.app/
 
 ✨ Add new job applications  
 📊 Track status → Applied | Interview | Rejected  
@@ -16,13 +15,13 @@
 
 ---
 
-🖼️ Preview
-
-
+## 🖼️ Preview
+<img width="1148" height="814" alt="image" src="https://github.com/user-attachments/assets/73b6023a-89ec-40bf-bda3-d4f64dae3d66" />
+<img width="1106" height="1039" alt="image" src="https://github.com/user-attachments/assets/11e8fd39-b82d-4017-9179-8a0a494abf3f" />
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Html5
 - React.js  
@@ -31,7 +30,7 @@
 
 ---
 
-⚙️ Setup & Run
+## ⚙️ Setup & Run
 
 # Clone repo
 ```
@@ -50,7 +49,7 @@ npm install
 npm start
 ```
 
-🧠 How It Works
+## 🧠 How It Works
 
 * Users can add job details (company, role, status)
 
@@ -60,15 +59,29 @@ npm start
 
 * Filter/search helps manage applications easily
 
-🚀 Future Improvements
+---
+
+## 🚀 Future Improvements
 
 🔐 Authentication (Login/Signup)
 ☁️ Backend integration (Firebase / MongoDB)
 📅 Interview scheduling
 📱 Better mobile UI
 
-👨‍💻 Author
-Ayush SHarma
+---
 
-⭐ Support
+## 🤝 Contributing
+Contributions are welcome!
+
+fork → clone → create branch → commit → push → PR
+
+---
+
+## 💡 Author
+
+👤 Ayush Sharma 📧 sharmaayush0941@gmail.com 🌐 GitHub: https://github.com/ayush790084
+
+---
+
+## ⭐ Support
 If you like this project, give it a ⭐!
