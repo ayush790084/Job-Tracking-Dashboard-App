@@ -64,8 +64,11 @@ npm start
 ## 🚀 Future Improvements
 
 🔐 Authentication (Login/Signup)
+
 ☁️ Backend integration (Firebase / MongoDB)
+
 📅 Interview scheduling
+
 📱 Better mobile UI
 
 ---
